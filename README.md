@@ -2,7 +2,9 @@
 
 This repository contains practical exercises implemented in Matlab.
 
-It is a part of the course being taught at Technical University of Munich,Germany in Summer Semester 2020.
+It is a part of the course being taught at Technical University of Munich, Germany in Summer Semester 2020.
+
+#### Table of Contents
 
 | SNO |  Topics | Matlab Code | Solutions in PDF |
 |     :---:      |     :---:      |     :---:      |     :---:      |
