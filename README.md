@@ -1,8 +1,10 @@
 ## Computer Vision 2 - Multiple View Geometry
 
-This repository contains practical exercises implemented in Matlab.
+This repository contains practical exercises implemented in Matlab.It is a part of the course being taught at Technical University of Munich, Germany in Summer Semester 2020.
 
-It is a part of the course being taught at Technical University of Munich, Germany in Summer Semester 2020.
+## About
+
+The lecture introduces the basic concepts of image formation - perspective projection and camera motion. The goal is to reconstruct the three-dimensional world and the camera motion from multiple images. To this end, one determines correspondences between points in various images and respective constraints that allow to compute motion and 3D structure. A particular emphasis of the lecture is on mathematical descriptions of rigid body motion and of perspective projection. For estimating camera motion and 3D geometry both spectral methods and methods of nonlinear optimization are used extensively.
 
 #### Table of Contents
 
