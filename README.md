@@ -18,3 +18,4 @@ The lecture introduces the basic concepts of image formation - perspective proje
 |        6.     | Perspective Projection | [Code](https://github.com/kamranisg/CV2-MultipleViewGeometry_TUM/blob/master/Ex04_1.m) | [Notebook](https://github.com/kamranisg/CV2-MultipleViewGeometry_TUM/blob/master/Ex04_1.pdf)
 |        7.     | Structure Tensor | [Code](https://github.com/kamranisg/CV2-Multiple-View-Geometry/blob/master/Ex05_1.m) | ---
 |        8.     | Hariss Corner Detection | [Code](https://github.com/kamranisg/CV2-Multiple-View-Geometry/tree/master/Ex05_2) | [Notebook](https://github.com/kamranisg/CV2-Multiple-View-Geometry/blob/master/Ex05_2/Hariss_Corner_Det.pdf)
+|        9.     | Eight Point Algorithm | [Code](https://github.com/kamranisg/CV2-Multiple-View-Geometry/blob/master/EX_06/EIGHTPOINTALGO.m) | [Notebook](https://github.com/kamranisg/CV2-Multiple-View-Geometry/blob/master/Ex05_2/Ex06_Eight_Point_Algorithm.pdf)
